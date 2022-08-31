@@ -1,2 +1,1 @@
-# zkdemo
-zookeeper
+zookeeper=文件系统+监听通知机制
